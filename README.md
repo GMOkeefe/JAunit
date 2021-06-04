@@ -4,6 +4,8 @@ A very basic test runner (along with control flow assistance) implemented in Jav
 ## What is Javagony?
 It's Java but you can't use any control flow structures (i.e. loops of any kind, if statements, switch cases, ternary statements).
 
+You can only use try-catch statements.
+
 ## Why?
 I don't know.
 
